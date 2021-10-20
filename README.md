@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4197bdb0e050463ab1edc477a0189d5f)](https://app.codacy.com/gh/Blackxin/MASTERBOT?utm_source=github.com&utm_medium=referral&utm_content=Blackxin/MASTERBOT&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-BOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIA-BOT)
