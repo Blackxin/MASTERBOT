@@ -52,8 +52,8 @@ Join for update related info channel and group :- https://t.me/zefirisme THANKS 
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIA-BOT.git
-cd MAFIA-BOT
+git clone https://github.com/Blackxin/MASTERBOT.git
+cd MASTERBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -112,7 +112,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 Copyright (C) 2021 H1M4N5HU0P
 
-Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
+Poject [MSTERBOT](https://github.com/Blackxin/MASTERBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
