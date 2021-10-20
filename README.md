@@ -46,6 +46,7 @@ Join for update related info channel and group : https://t.me/zefirisme THANKS F
 - Your Deadly Bot Session Will be saved in your Telegram Saved Message.
 
                          KLIK THIS IMAGE TO GET STRING !!!
+                        <h4>⚜️ DEPLOY TO replit ⚜️</h4>
 [![repl](https://te.legra.ph/file/13c4acf00171cf3a74d72.jpg)](https://replit.com/join/uvzsqorexz-blackxin#main.py)
 
 </details>
