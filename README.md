@@ -1,7 +1,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Blackxin/MASTERBOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIA-BOT)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-https%3A%2F%2Ft.me%2Fyourviceman-blue)
+[[GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIA-BOT)
+[[Contact Me](https://img.shields.io/badge/Contact%20Me-https%3A%2F%2Ft.me%2Fyourviceman-blue)
 
 
 
