@@ -8,7 +8,7 @@
 # 𝚃𝙷𝙴 MASTERBOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram.
 
-Join for update related info channel and group :- https://t.me/zefirisme THANKS FOR VISITING OUR REPO💖
+Join for update related info channel and group : https://t.me/zefirisme THANKS FOR VISITING OUR REPO💖
 [![Blackxin LOGO](https://telegra.ph/file/9543a8e59863e145ab4a2.jpg)](https://t.me/zefirisme)
 
 
