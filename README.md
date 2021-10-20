@@ -53,7 +53,7 @@ Join for update related info channel and group : https://t.me/zefirisme THANKS F
 <details>
 
   <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
+<h2 align="center"> <a href="https://github.com/MafiaBotOP/MafiaBot">💥 MafiaBot 💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 </details>
